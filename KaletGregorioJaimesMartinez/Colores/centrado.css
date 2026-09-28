@@ -1,0 +1,43 @@
+h1, h2, h3, p, article{
+ text-align: center;
+}
+nav{
+text-align: center;
+
+
+}
+.titulo1{
+    font-family: 'Oswald', 'Impact', sans-serif;
+font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+   
+
+}
+.tituloprincipal {
+    font-family: 'Bebas Neue', sans-serif;
+   background: linear-gradient(180deg, #ffffff 0%, #a6a6a6 50%, #ffffff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    }
+.tituloorigen {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 2px;
+   
+}
+.titulopelicula {
+    font-family: 'Cinzel Decorative', serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    
+    letter-spacing: 2px;
+    }
+    img {
+text-align: center;
+    }
+   
+    a{
+        color:gold;
+        font-weight: lighter;
+    }
+ 
