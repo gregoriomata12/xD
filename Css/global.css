@@ -1,5 +1,6 @@
     body{
-background-color: black;
+      background-image: url(https://media.istockphoto.com/id/1083714376/es/vector/cannabis-fondo-de-marihuana-vector-de.jpg?s=170667a&w=0&k=20&c=tS6oeiQN-AArmXfHmMl31hzcqP-dwurvKqPrutjDfS8=);
+      background-size: cover;
   color: #f4ebe1;
 font-size: large;
     }
@@ -19,6 +20,21 @@ color: #e6e6e6;
    color: #ffffff;
 
 }
+header{
+    display: flex;
+    background-color: rgba(15, 15, 15, 0.85);
+    backdrop-filter: blur(8px);
+     a{
+        color:gold;
+        font-weight: lighter;
+        text-align: right;
+    }
+    img{
+     width: 200px;
+}
+  }
+
+
 
 
 
