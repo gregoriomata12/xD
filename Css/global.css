@@ -20,30 +20,7 @@ color: #e6e6e6;
    color: #ffffff;
 
 }
-header{
-   display: flex;
-  align-items: center ;
-  
-    background-color: rgba(15, 15, 15, 0.85);
-    backdrop-filter: blur(8px);
-     a{
-        color:gold;
-      padding: 10px 32px;
-        justify-content:space-around;
-        font-weight: lighter;
-        font-size: x-large
-        
-    }
-    img{
-     width: 200px;
-     }
-     nav {
-      display: flex;
-      gap: 50px; 
-      
-  
-     }
-  }
+
 
 
 
